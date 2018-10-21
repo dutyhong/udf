@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="odps-sdk-udf-0.29.8-public">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/odps-sdk-udf-0.29.8-public.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

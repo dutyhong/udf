@@ -1,0 +1,1 @@
+a.dlq_cnt+a.dlq_cnt_rate+a.dlq_days_in3+a.dlq_gt15_cnt+a.dlq_gt3_cnt+a.dlq_gt7_cnt+a.dql_days_now+a.first_dlq_days+a.id_no_plat_debt+a.id_no_plat_loan+a.latefee_unpaid+a.max_dlq_days+a.rent_dlq_unpaid+
